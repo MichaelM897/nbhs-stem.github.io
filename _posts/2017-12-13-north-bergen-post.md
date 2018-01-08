@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Seton Hall University Meeting"
-markdown: kramdown
 date: 2017-12-13
 ---
 
